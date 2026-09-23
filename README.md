@@ -1,6 +1,6 @@
 # ❌⭕ Консольные «Крестики-Нолики»
 
-![Превью игры](/Users/khalius/Desktop/preview.png)
+![Превью игры](./previewImage/preview.png)
 
 ---
 
